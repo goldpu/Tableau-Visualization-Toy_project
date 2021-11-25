@@ -2,6 +2,7 @@ print("hello, Tableau visualization?")
 #https://www.kaggle.com/scratchpad/notebook8341c9020f/edit
 #Kaggle Data
 #Data git update
+#update Tableau 사용해보자 일단
 
 import pandas as pd
 import numpy as np
